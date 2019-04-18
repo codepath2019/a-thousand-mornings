@@ -1,0 +1,11 @@
+.poem-entry p {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    line-height: 150%;
+}
+
+.poem-entry h2 {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 22px;
+    font-weight: 100;
+
+}
