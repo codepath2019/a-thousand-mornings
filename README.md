@@ -1,0 +1,1 @@
+To create a simple website that captures Mary Oliver's Poem for fun, and to learn CSS/HTML.
